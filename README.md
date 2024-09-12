@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://ouch-cdn2.icons8.com/9iKk02YqNtSfaXXlLV0G-31mBcJBdNHMGV645oa-H3k/rs:fit:368:280/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNy8x/MzRlMTdlYy02YmUy/LTQ5OGItYThiYi04/MWJhNjg2ZmJjZWQu/cG5n.png" alt="Coding">
+<img align="right" width="400" src="https://ouch-cdn2.icons8.com/0XBAygdnFpJENwiGZkS8carht4bcolz8L8V1arfnN9I/rs:fit:368:660/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTk3/LzM4MjIzOGUyLTJh/ZWEtNDEwNC1iYzM5/LWEyMmZmN2FlMmZl/Ni5wbmc.png" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sde-tarun&label=Profile%20views&color=0e75b6&style=flat" alt="sde-tarun" /> </p>
 
