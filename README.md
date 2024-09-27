@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://ouch-cdn2.icons8.com/JzgGb3xWRrAPKFrnEKml_JS6m92OLcC-oaOcHYOBb_A/rs:fit:368:534/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTAw/LzM1MTA2MjA5LTlh/NDgtNGJlMy04ZGVk/LTg1MDgyYTc2ZGMz/Yy5wbmc.png" alt="Coding">
+<!-- <img align="right" width="400" src="https://ouch-cdn2.icons8.com/JzgGb3xWRrAPKFrnEKml_JS6m92OLcC-oaOcHYOBb_A/rs:fit:368:534/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTAw/LzM1MTA2MjA5LTlh/NDgtNGJlMy04ZGVk/LTg1MDgyYTc2ZGMz/Yy5wbmc.png" alt="Coding"> -->
 
 <p align="left"> <img src="https://img.freepik.com/premium-vector/illustration-programmer-computer-vector-technology-concept-web-digital-design-programming_1013341-205183.jpg" alt="sde-tarun" /> </p>
 
