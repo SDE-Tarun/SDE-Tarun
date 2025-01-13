@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="sde-tarun" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Webiste](https://lighthearted-zuccutto-7672ad.netlify.app)
+- 🔭 I’m currently working on [Portfolio Website](https://lighthearted-zuccutto-7672ad.netlify.app)
 
 - 🌱 I’m currently learning **NextJs**
 
