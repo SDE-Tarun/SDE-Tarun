@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="right" width="400" src="https://ouch-cdn2.icons8.com/JzgGb3xWRrAPKFrnEKml_JS6m92OLcC-oaOcHYOBb_A/rs:fit:368:534/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTAw/LzM1MTA2MjA5LTlh/NDgtNGJlMy04ZGVk/LTg1MDgyYTc2ZGMz/Yy5wbmc.png" alt="Coding"> -->
 
-<p align="left"> <img src="https://ytimg.googleusercontent.com/vi/07VHWbPcDGw/maxresdefault.jpg" alt="sde-tarun" /> </p>
+<p align="left"> <img src="https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="sde-tarun" /> </p>
 
 - 🔭 I’m currently working on [Portfolio Webiste](https://lighthearted-zuccutto-7672ad.netlify.app)
 
