@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=6,12,23,34,45&height=120&section=header&text=TARUN%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&letterSpacing=8" width="100%" />
 </div>
 
-<h3 align="center">🚀 Full-Stack Software Engineer | 3+ Years Building Scalable Web Apps</h3>
+<h3 align="center">🚀 Full-Stack Software Engineer | 3 Years Building Scalable Web Apps</h3>
 
 <p align="center">
   <a href="https://lighthearted-zuccutto-7672ad.netlify.app" target="_blank">
